@@ -524,4 +524,3 @@ Bien entendu, pour pouvoir utiliser `zip()`, il faut que les listes soient de mÃ
 1. [Argmax](ex4.1)
 2. [Intersection de listes](ex4.2)
 3. [Union de listes](ex4.3)
-   
